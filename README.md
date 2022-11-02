@@ -12,4 +12,5 @@ This project contains react `v18` with Tailwind CSS `v3.2`. If you ready to lear
 
 If you understand Indonesian language (bahasa), you can watch the video course [here](https://parsinta.com/series/belajar-react-dari-awal-rswb0). I believe everyone should learn this cool library, so I make it all free for everyone who interested.
 
-### If you want, you can sponsor my project by [Github sponsor](https://github.com/sponsors/irsyadadl) or [Saweria](https://saweria.co/irsyadadl).
+### If you want
+You can sponsor my project by [Github sponsor](https://github.com/sponsors/irsyadadl) or [Saweria](https://saweria.co/irsyadadl).
